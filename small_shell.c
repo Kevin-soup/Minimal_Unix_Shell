@@ -1,6 +1,5 @@
 /* Program: Small sh
  * Author: Kevin Lin
- * Date: 11/23/2025
  * Description: This program implements a subset of features of well known OS shells, such as bash. 
  *              The shell also supports non built in commands using execvp(), input/output redirection, 
  *              and a toggle for running commands in either foreground or background.                           
