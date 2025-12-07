@@ -1,4 +1,4 @@
-# smallsh — Minimal Unix Shell
+# Minimal Unix Shell — Small Shell
 
 A custom Unix shell implemented in C that replicates core shell functionality including process execution, job control, input/output redirection, and signal handling.
 
